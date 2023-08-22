@@ -156,7 +156,17 @@
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-  }    
+  }
+  
+  
+
+
+  /*alumini.html*/
+  .container center-container-66 {
+    margin-bottom: 10px; /* Add margin below image for spacing */
+    max-width: 100%;
+    height: auto;
+  }   
 
   
  /*footer*/
