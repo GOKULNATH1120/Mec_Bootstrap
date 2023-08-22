@@ -168,6 +168,46 @@
     height: auto;
   }   
 
+  /*contact us*/
+
+  .container-l {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+
+}
+
+.location {
+    text-align: center;
+}
+
+.contact-column {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+  }
+  .contact-details {
+    text-align: center;
+  }    
+
+  .contact-column {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px; /* Add margin to the top of each column */
+  }
+  .contact-details {
+    text-align: center;
+  }
+
+  h4{
+    color: #022d93;
+  }
   
  /*footer*/
  .card-footer {
