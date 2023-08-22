@@ -1,0 +1,158 @@
+/*r&d.html*/
+
+.custom-header {
+    background-color: #022d93;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-right: 700px;
+    margin-left: 0px;
+    height: 70px;
+    
+  }
+  .column {
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+
+  .custom-header-11 {
+    background-color: #022d93;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 70px;
+  }
+  .column {
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }    
+
+  /*grid*/
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .column {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /*tables*/
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #022d93;
+    color: white;
+  }
+  .inline-header {
+    font-weight: bold;
+  }   
+
+.inline-header {
+    background-color: #022d93; display: inline-block;
+    color: white;
+    margin-top: 20px;
+    
+  }
+
+ .paragraph p{
+    line-height: 20px;
+    
+ } 
+
+
+ .col {
+    border: 1px solid #022d93;
+    padding: 20px;
+    text-align: center;
+    margin-right: 10px;
+  }
+
+  
+/*facilities.html*/
+
+
+.column {
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  .column img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  .image-name {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+
+  table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 120px;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  th:first-child {
+    background-color: #022d93;
+    color: white;
+    font-weight: bold;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+
+  /*sports.html*/
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .centered-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+
+  
+ /*footer*/
+ .card-footer {
+    background-color: rgb(17, 15, 15); /* Set your desired background color */
+    color: #FFFFFF; /* Set your desired text color */
+  }
+
+  
+  
