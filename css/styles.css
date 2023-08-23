@@ -45,12 +45,12 @@
   }
 
   .dropdown-item {
-    color: black;
+    
     transition: background-color 0.3s;
   }
 
   .dropdown-item:hover {
-    background-color: #001f3f;
+    background-color: skyblue;
   }
 
 /*video*/ 
@@ -78,7 +78,7 @@ body {
     
   }
 
-  .form-container {
+  .form-container-1 {
     flex: 1;
     padding: 20px;
     background-color: #f1f1f1;
@@ -95,11 +95,8 @@ body {
     margin-top: 10px;
   }
 
-  .header {
-    background-color: #022d93;
-    color: white;
-    padding: 10px;
-    text-align: center;
+  .header-4 {
+    color: #f8f8f8;
   }
    
 .btn{
@@ -130,7 +127,7 @@ body {
     height: 300px;
 }
 
-.section-header {
+.section-header-50 {
     background-color: #022d93;
     color: white;
     padding: 10px;
@@ -189,13 +186,13 @@ body {
     padding-right: 10px;
 }
 
-.section-header {
-    background-color: #022d93;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    margin-bottom: 20px;
-    width: 100%;
+.section-header-0 {
+  background-color: #022d93;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+  width: 100%;
 }
 
 .image-container-1 {
@@ -260,12 +257,8 @@ body {
 
 /* image tags*/
 
-.blue-header {
-    background-color: #022d93;
-    color: white;
-    padding: 10px;
-    height: 50px;
-    font-size: 20px;
+.blue-header-7 {
+  
   }
 
   .container-shadow {
@@ -331,12 +324,8 @@ body {
     margin: 10px;
   }
 
-  .custom-header {
-    background-color: #022d93;
-    color: white;
-    padding: 10px;
-    height: 50px;
-    font-size: 20px;
+  .custom-header-25 {
+   
   }
 
   .image-container {
@@ -365,7 +354,7 @@ body {
     margin: 10px;
   }
 
-  .custom-header {
+  .custom-header-24{
     background-color: n#022d93;
     color: white;
     padding: 10px;
@@ -557,3 +546,20 @@ body {
     max-width: 100%; /* Make sure the image doesn't exceed its container */
   }
 
+
+
+  .topmarquee {
+    background-color: #fab702;
+    color: #676767;
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 5px;
+   
+}
+
+
+
+
+  .nav-item .nav-link {
+    color: white;
+}

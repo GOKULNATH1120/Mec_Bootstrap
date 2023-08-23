@@ -208,7 +208,67 @@
   h4{
     color: #022d93;
   }
-  
+
+  /*admission.html*/
+ 
+
+  .admission-section-5 {
+    display: flex;
+    background-color: goldenrod;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+.image-container-5 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container-5 img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.form-container-5 {
+    flex: 2;
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label, input, select, button {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+button {
+    background-color: navy;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/*admission.html*/
+.column {
+    border: 1px solid navy;
+    padding: 10px;
+  }
+
+
+ 
+
+
+ 
  /*footer*/
  .card-footer {
     background-color: rgb(17, 15, 15); /* Set your desired background color */
